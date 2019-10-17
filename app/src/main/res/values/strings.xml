@@ -1,0 +1,29 @@
+<resources>
+    <item name="glide_tag" type="id" />
+    <string name="app_name">Бортжурнал</string>
+    <string name="op">ОП</string>
+    <string name="t0">00:00</string>
+    <string name="t1">01:00</string>
+    <string name="t2">02:00</string>
+    <string name="t3">03:00</string>
+    <string name="t4">04:00</string>
+    <string name="t5">05:00</string>
+    <string name="t6">06:00</string>
+    <string name="t7">07:00</string>
+    <string name="t8">08:00</string>
+    <string name="t9">09:00</string>
+    <string name="t10">10:00</string>
+    <string name="t11">11:00</string>
+    <string name="t12">12:00</string>
+    <string name="t13">13:00</string>
+    <string name="t14">14:00</string>
+    <string name="t15">15:00</string>
+    <string name="t16">16:00</string>
+    <string name="t17">17:00</string>
+    <string name="t18">18:00</string>
+    <string name="t19">19:00</string>
+    <string name="t20">20:00</string>
+    <string name="t21">21:00</string>
+    <string name="t22">22:00</string>
+    <string name="t23">23:00</string>
+</resources>
